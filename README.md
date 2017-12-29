@@ -16,7 +16,7 @@ What you need to install the program:
 
 ```
 1. C++ compiler
-2. This site was built using [GitHub Pages](https://pages.github.com/).
+2. freeglut 2.8 (http://freeglut.sourceforge.net) or its variants to use the OpenGL API used in the source code
 3. An IDE of your choice
 ```
 
