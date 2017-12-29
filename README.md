@@ -25,5 +25,5 @@ https://www.ntu.edu.sg/home/ehchua/programming/opengl/HowTo_OpenGL_C.html
 
 ## Authors
 
-* **Mussie Habtemichael** - *Initial work* - [mussieh](https://github.com/mussieh)
+* **Mussie Habtemichael** - [mussieh](https://github.com/mussieh)
 
