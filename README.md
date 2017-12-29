@@ -23,7 +23,7 @@ In order to run the program, download the source code into a source folder and i
 https://www.ntu.edu.sg/home/ehchua/programming/opengl/HowTo_OpenGL_C.html
 
 
-## Authors
+## Author
 
 * **Mussie Habtemichael** - [mussieh](https://github.com/mussieh)
 
