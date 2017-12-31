@@ -18,8 +18,7 @@ string SyntaxConverter::expandSymbol() {
 
 	while (numberOfDerivations > 0) {
 
-		// F is for forward movement specified by the angle direction
-
+		// "F" stands for forward movement specified in the direction determined by the given angle
 		for (unsigned int i = 0; i < current.size(); i++) {
 
 			if ( current.at(i) == 'F' && current.size() == 1) {
