@@ -19,7 +19,7 @@ void update(int value) {
 		numberOfDerivations += 1;
 	}
     glutPostRedisplay(); // Inform GLUT that the display has changed
-    glutTimerFunc(2000,update,0);//Call update after each 25 millisecond
+    glutTimerFunc(2000,update,0);
 }
 
 void display(void) {
